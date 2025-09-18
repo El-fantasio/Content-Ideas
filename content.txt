@@ -1,0 +1,13 @@
+# Basic File Content Ideas
+
+
+Title/Header
+Data Created
+Author Name
+Table Of Content
+Introduction or purpose 
+Main Content/Body
+Conclusion
+Reference or Sources
+Appendix
+Version History or Changelog
