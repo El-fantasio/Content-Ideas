@@ -11,3 +11,17 @@ Conclusion
 Reference or Sources
 Appendix
 Version History or Changelog
+
+##  Code (language-specific)
+    you can type code in any supported programming language:
+
+*  JavaScript/TypeScript
+*  Python
+*  C++/C#
+*  Java  
+*  HTML/CSS
+*  PHP
+*  Go
+*  Rust
+*  SQL
+*  etc.
